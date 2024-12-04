@@ -58,7 +58,8 @@ nav .nav-right a:hover {
 }
 
 nav .nav-left a:hover {
-    background-color: black;
+    border-bottom-style: solid;
+    border-bottom-color: yellow;
     color: greenyellow;
     transition: 0.3s;
 }
