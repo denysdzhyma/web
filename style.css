@@ -33,7 +33,6 @@ nav .nav-left a {
     padding: 12px;
     text-align: center;
     font-size: 24px;
-    transition: 0.3s;
 }
 
 nav .nav-right a {
@@ -60,8 +59,6 @@ nav .nav-right a:hover {
 nav .nav-left a:hover {
     border-bottom-style: solid;
     border-bottom-color: yellow;
-    color: greenyellow;
-    transition: 0.3s;
 }
 
 .nav-left ul li {
